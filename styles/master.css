@@ -1,0 +1,12 @@
+body {
+    background: url(../includes/SvWWN.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    resize: both;
+    overflow: hidden;
+}
